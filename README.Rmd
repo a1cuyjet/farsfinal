@@ -1,0 +1,19 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+ 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+ 
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+ 
+# FARS
+ 
+The goal of FARS is to read in and summarize data from the Fatality Analysis Reporting System from the US National Highway Traffic Safety Administration. The functions included in this package will read in data, create summary tables of the data, and create a map summarizing fatalities in specified states. This package is part of the Building R Packages course in the Mastering Software Development in R specialization on Coursera.

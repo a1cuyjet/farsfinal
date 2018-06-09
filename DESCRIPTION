@@ -1,0 +1,20 @@
+Package: FARS
+Type: Package
+Date: 06-05-2018
+Depends: R (>= 3.0.0)
+Imports: dplyr, graphics, magrittr, maps, readr, tidyr
+Title: FARS
+Version: 0.1.0
+Author: Alyssa Cuyjet
+Maintainer: Alyssa Cuyjet <abcuyjet@gmail.com>
+Description: This package contains functions to create summary data based on
+    the Fatality Analysis Reporting System from the
+    US National Highway Traffic Safety Administration.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
