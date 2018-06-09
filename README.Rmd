@@ -12,8 +12,12 @@ knitr::opts_chunk$set(
   comment = "#>",
   fig.path = "README-"
 )
+
+[![Build Status](https://travis-ci.org/a1cuyjet/farsfinal.svg?branch=master)](https://travis-ci.org/a1cuyjet/farsfinal)
+ 
 ```
  
+
 # FARS
  
 The goal of FARS is to read in and summarize data from the Fatality Analysis Reporting System from the US National Highway Traffic Safety Administration. The functions included in this package will read in data, create summary tables of the data, and create a map summarizing fatalities in specified states. This package is part of the Building R Packages course in the Mastering Software Development in R specialization on Coursera.
