@@ -16,6 +16,6 @@ Returns summary as a dataframe. This function will return an error if the year s
 Creates by-year summary of the data showing the number of accidents in each month by year.
 }
 \examples{
-fars_summarize_years(c(2014,2015))
+\dontrun{fars_summarize_years(c(2014,2015))}
 
 }

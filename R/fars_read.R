@@ -12,7 +12,7 @@
 #' @return This function returns a dataframe table
 #'
 #' @examples
-#' fars_read("accident_2014.csv.bz2")
+#' \dontrun{fars_read("accident_2014.csv.bz2")}
 #'
 #' @export
 

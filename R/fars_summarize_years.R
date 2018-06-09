@@ -11,7 +11,7 @@
 #'
 #' @return Returns summary as a dataframe. This function will return an error if the year specified does not correspond to a dataset.
 #' @examples
-#' fars_summarize_years(c(2014,2015))
+#' \dontrun{fars_summarize_years(c(2014,2015))}
 #'
 #' @export
 

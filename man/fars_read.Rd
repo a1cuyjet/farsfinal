@@ -20,6 +20,6 @@ Traffic Safety Administration exists. If it does exist, the data will be read in
 This function will return an error if data is not in the working directory.
 }
 \examples{
-fars_read("accident_2014.csv.bz2")
+\dontrun{fars_read("accident_2014.csv.bz2")}
 
 }

@@ -16,6 +16,6 @@ Returns a list with the months and selected year(s). A separate list is returned
 This function subsets the data to look only at month and year.
 }
 \examples{
-fars_read_years(2014)
+\dontrun{fars_read_years(2014)}
 
 }

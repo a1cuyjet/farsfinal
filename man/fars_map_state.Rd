@@ -18,6 +18,6 @@ Plot of the state showing the location of accidents in the state. This function 
 This function provides a visual of the number of accidents within a specified state and year.
 }
 \examples{
-fars_map_state(4, 2014)
+\dontrun{fars_map_state(4, 2014)}
 
 }

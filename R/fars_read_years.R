@@ -9,7 +9,7 @@
 #'
 #' @return Returns a list with the months and selected year(s). A separate list is returned for each year. This function will return an error if the specified year does not correspond to a dataset.
 #' @examples
-#' fars_read_years(2014)
+#' \dontrun{fars_read_years(2014)}
 #'
 #' @export
 

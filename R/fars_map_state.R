@@ -10,7 +10,7 @@
 #'
 #' @return Plot of the state showing the location of accidents in the state. This function will return an error if the year specified does not correspond to a dataset or if the state number does not exist.
 #' @examples
-#' fars_map_state(4, 2014)
+#' \dontrun{fars_map_state(4, 2014)}
 #'
 #' @export
 
